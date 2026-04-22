@@ -13,7 +13,7 @@
 | 2 | 🔮 **Vạn Pháp** | 🔴 **Hỏa** | ⭐⭐⭐ (Vừa) | Magic DPS/CC | Pháp Bảo, Trượng |
 | 3 | 🛡️ **Bá Thể** | 🟤 **Thổ** | ⭐ (Rất Dễ) | Tank / Brawler | Quyền, Thương |
 | 4 | 💚 **Dược Tiên** | 🟢 **Mộc** | ⭐⭐⭐ (Vừa) | Support/Healer | Phù, Trượng |
-| 5 | 🗡️ **Ảnh Sát** | 🔵 **Thủy** | ⭐⭐⭐⭐⭐ (Khó) | Assassin / Burst | Đoản Đao, Ám Khí |
+| 5 | 🗡️ **Lưu Ảnh** | 🔵 **Thủy** | ⭐⭐⭐⭐⭐ (Khó) | Assassin / Burst | Đoản Đao, Ám Khí |
 
 ---
 
@@ -542,7 +542,7 @@ CD: 240s | Mana: 300
 
 ---
 
-## 🗡️ CLASS 5: Ảnh Sát (Shadow Cultivator)
+## 🗡️ CLASS 5: Lưu Ảnh (Shadow Cultivator)
 
 > *"Ẩn trong bóng tối, một击 tất sát"*
 
